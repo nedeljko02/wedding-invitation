@@ -2,8 +2,7 @@
 
 A single-page digital wedding invitation, built as a static site with no frameworks and no build step.
 
-**Live:** _(add your GitHub Pages / Netlify link here)_
-
+**Live:** https://filip-jelena.onrender.com/
 ![Serbian](https://img.shields.io/badge/lang-Serbian_(Cyrillic)-4a5c3a)
 ![No frameworks](https://img.shields.io/badge/dependencies-none-b8a44c)
 
